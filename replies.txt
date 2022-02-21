@@ -1,0 +1,4 @@
+Welcome to {GUILD_NAME}. I am Hideri, AI support bot to assist in tickets. Could you tell me the purpose of your ticket? (First Message)
+
+[Message for Selection]
+Thank you for your response. Your question/statement has been tagged as {category}. 

@@ -1,0 +1,17 @@
+[
+    {"text": "How does refunding work?", "type": "question_refund"},
+    {"text": "What is this?", "type": "question_refund"},
+    {"text": "What can I pay with?", "type": "question_payment"},
+    {"text": "What is the success rate?", "type": "question_success"},
+    {"text": "I would like to refund an Apple product.", "type": "refund_apple"},
+    {"text": "I want to get my Amazon refunded.", "type": "refund_amazon"},
+    {"text": "Refund my BestBuy order.", "type": "refund_bestbuy"},
+
+    {"input": "", "output": 62, "category": "question_about"},
+
+    {"input": "", "output": 63, "category": "question_payment"},
+
+    {"input": "", "output": 64, "category": "question_success"},
+
+    {"input": "", "output": 65, "category": "question_about"}
+]

@@ -1,0 +1,5 @@
+{
+    "greeting": "Thank you for choosing {GUILD_NAME}. I am Hiyori, a new ai bot to assist in tickets. Could you tell me the purpose of your ticket?",
+    "refund": "{SELECTED_STORE} has been selected for refunding.",
+    "store_info": "Here is some extra information for {SELECTED_STORE}. For shipping, {SELECTED_STORE} has a {STORE_TOTAL_LIMIT} with an item limit of {STORE_ITEM_LIMIT}. For pickup orders, refunding is ? isn't working."
+}
